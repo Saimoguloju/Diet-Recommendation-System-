@@ -1,0 +1,11 @@
+ipykernel
+pandas
+numpy 
+matplotlib
+seaborn
+scikit-learn
+streamlit
+langchain
+dotenv
+langchain_community
+huggingface_hub
